@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ed97719-e0a3-4e3c-95cb-00fc851547ac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cards/static/cards/css/styles.css" afterPath="$PROJECT_DIR$/cards/static/cards/css/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fav-icon.jpg" afterPath="$PROJECT_DIR$/cards/static/cards/css/fav-icon.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cards/templates/cards/base.html" afterPath="$PROJECT_DIR$/cards/templates/cards/base.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cards/static/cards/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
@@ -63,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cards/templates/cards/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="59" column="7" lean-forward="false" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+            <state relative-caret-position="210">
+              <caret line="10" column="68" lean-forward="false" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -141,7 +143,6 @@
         <option value="$PROJECT_DIR$/cards/models.py" />
         <option value="$PROJECT_DIR$/cards/urls.py" />
         <option value="$PROJECT_DIR$/cards/views.py" />
-        <option value="$PROJECT_DIR$/cards/templates/cards/base.html" />
         <option value="$PROJECT_DIR$/cards/templates/cards/cubelist_from.html" />
         <option value="$PROJECT_DIR$/cards/templates/cards/cubelist_form.html" />
         <option value="$PROJECT_DIR$/cards/templates/cards/form-template.html" />
@@ -149,6 +150,7 @@
         <option value="$PROJECT_DIR$/heroku/settings.py" />
         <option value="$PROJECT_DIR$/../../cube app/cube_to_db.py" />
         <option value="$PROJECT_DIR$/cards/static/cards/css/styles.css" />
+        <option value="$PROJECT_DIR$/cards/templates/cards/base.html" />
       </list>
     </option>
   </component>
@@ -191,7 +193,39 @@
             <path>
               <item name="heroku" type="b2602c69:ProjectViewProjectNode" />
               <item name="heroku" type="462c0819:PsiDirectoryNode" />
+              <item name="cards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heroku" type="b2602c69:ProjectViewProjectNode" />
               <item name="heroku" type="462c0819:PsiDirectoryNode" />
+              <item name="cards" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heroku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heroku" type="462c0819:PsiDirectoryNode" />
+              <item name="cards" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="cards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heroku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heroku" type="462c0819:PsiDirectoryNode" />
+              <item name="cards" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="cards" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heroku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heroku" type="462c0819:PsiDirectoryNode" />
+              <item name="heroku" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heroku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heroku" type="462c0819:PsiDirectoryNode" />
+              <item name="heroku" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,6 +239,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jason\Desktop\heroku\heroku\cards\static\cards\css" />
+      <recent name="C:\Users\Jason\Desktop\heroku\heroku\heroku\static" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -408,7 +448,7 @@
         <state relative-caret-position="112">
           <caret line="17" column="65" lean-forward="false" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
           <folding>
-            <element signature="e#1138#1144#0#HTML" expanded="true" />
+            <element signature="e#1138#1144#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -417,14 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cards/templates/cards/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="59" column="7" lean-forward="false" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -472,6 +504,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cards/templates/cards/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="68" lean-forward="false" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
           <folding />
         </state>
       </provider>
