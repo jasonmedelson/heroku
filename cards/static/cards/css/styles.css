@@ -3,6 +3,11 @@
 }
 .thumbnail{
     height: 470px;
+    background: #293546;
+    border-color: black;
+    border-style: double;
+    border-radius:16px;
+    border-width: 6px;
 }
 .img-responsive{
     -moz-transition: all 0.5s;
@@ -15,5 +20,12 @@
     transform: scale(1.15);
 }
 body{
-    background: gray;
+    background: lightgray;
+}
+.holder{
+    background:lightgray;
+}
+.caption{
+    text-align:center;
+    color:white!important;
 }
