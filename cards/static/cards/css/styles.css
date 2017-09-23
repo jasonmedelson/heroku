@@ -4,10 +4,11 @@
 .thumbnail{
     height: 470px;
     background: #293546;
-    border-color: black;
+    border-color: #476682;
     border-style: double;
     border-radius:16px;
     border-width: 6px;
+    max-width:360px;
 }
 .img-responsive{
     -moz-transition: all 0.5s;
