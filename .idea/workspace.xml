@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ed97719-e0a3-4e3c-95cb-00fc851547ac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cards/static/cards/css/styles.css" afterPath="$PROJECT_DIR$/cards/static/cards/css/styles.css" />
-    </list>
+    <list default="true" id="0ed97719-e0a3-4e3c-95cb-00fc851547ac" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
